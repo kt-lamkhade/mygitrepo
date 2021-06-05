@@ -1,2 +1,2 @@
 # mygitrepo
-my first project
+my first project in GitHub
