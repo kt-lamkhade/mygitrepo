@@ -1,4 +1,12 @@
+docker images
 docker run <image name>
 docker pull <name of image>
 docker stop <container id>
 docker start <container id>
+
+docker run -p 8080:8080 <container id> -d --name <jenkins-old>
+
+
+docker logs <container id/name >
+
+docker exec -it <container id> /bin/bash 
