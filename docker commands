@@ -1,0 +1,4 @@
+docker run <image name>
+docker pull <name of image>
+docker stop <container id>
+docker start <container id>
